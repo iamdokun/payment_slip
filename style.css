@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#portal {
+    border: solid;
+    margin-top: 70px;
+    padding-top: 20px;
+    border-radius: 5px;
+}
